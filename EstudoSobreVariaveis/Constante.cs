@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace meu_projeto.TipoDeDados
+namespace meu_projeto.EstudoSobreVariaveis
 {
-    class Constante
+    internal class Constante
     {
         static void Main(string[] args)
         {

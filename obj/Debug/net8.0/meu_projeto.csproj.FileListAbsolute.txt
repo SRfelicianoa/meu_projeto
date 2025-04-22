@@ -1,0 +1,5 @@
+C:\Users\rafae\source\repos\Meu_projeto\meu_projeto\obj\Debug\net8.0\meu_projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Meu_projeto\meu_projeto\obj\Debug\net8.0\meu_projeto.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Meu_projeto\meu_projeto\obj\Debug\net8.0\meu_projeto.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Meu_projeto\meu_projeto\obj\Debug\net8.0\meu_projeto.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Meu_projeto\meu_projeto\obj\Debug\net8.0\meu_projeto.sourcelink.json
