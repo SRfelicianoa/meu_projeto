@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace meu_projeto.PPOBasico
 {
-    internal class CriacaoClasse
+    public class CriacaoClasse
     {
+
     }
 }
